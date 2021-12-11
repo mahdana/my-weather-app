@@ -52,3 +52,7 @@ body {
   font-style: line-height;
   margin: 20px auto;
 }
+.netlink{
+  display: block;
+  padding-left: 250px;
+}
